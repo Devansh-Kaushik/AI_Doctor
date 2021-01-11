@@ -17,3 +17,4 @@ BENIFITS OF THIS APP
 2)Time saver
 3)Feels like personal doctor
 4)Free of cost
+5)Easy to Access
