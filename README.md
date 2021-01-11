@@ -1,4 +1,5 @@
 # AI_Doctor
+The AI_Doctor Name is AMIGO.
 This is an AI doctor which was made to help in the lockdown period.As many people was suffering from depression due to thee COVID-19.
 We are living in the times of social distancing and it is not easy. The world battles a global pandemic and an indefinite lockdown as of now and our day-to-day life has changed at so many levels. many among us are feeling challenged in terms of productivity, motivation, inspiration and hope.
 Even though we are trying our best everyday when a day begins, but in such difficult and testing times, it is natural to give up and breakdown at many levels.
