@@ -19,3 +19,7 @@ BENIFITS OF THIS APP
 3)Feels like personal doctor
 4)Free of cost
 5)Easy to Access
+
+This app is made in python language.And its an desktop app.
+Later anyone can name modifications in this app and can make an android app too.
+And this app doesnot require any high requirements in the desktop or laptop,even doesnot take much space.
