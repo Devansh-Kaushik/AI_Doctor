@@ -8,7 +8,7 @@ import webbrowser
 import re
 import pygame
 
-serpwow = GoogleSearchResults("AEEEA3D3DB2846AAAB3B66A02B1524D9")
+serpwow = GoogleSearchResults("get your id")
 engine = pyttsx3.init()
 m = sr.Recognizer()
 ph = sr.Recognizer()
