@@ -12,14 +12,21 @@ SO THIS APP IS A SOLUTION
 3)we just have to tell he our name or if yoou dont want then no problem you can continue.
 4)This app have 2 side one is psychosocial support and one is forr the brain relief side.
 5)While giveing the suggestion this app also give some assessment.
-
+***********************************************************************
 BENIFITS OF THIS APP 
 1)There are no sign-up cerendials
 2)Time saver
 3)Feels like personal doctor
 4)Free of cost
 5)Easy to Access
-
+***********************************************************************
 This app is made in python language.And its an desktop app.
 Later anyone can name modifications in this app and can make an android app too.
 And this app doesnot require any high requirements in the desktop or laptop,even doesnot take much space.
+
+This is how it looks like 
+
+![Screenshot (435)](https://user-images.githubusercontent.com/61897385/122439779-90319500-cfb9-11eb-9559-1245c45cc731.png)
+![Screenshot (436)](https://user-images.githubusercontent.com/61897385/122439799-94f64900-cfb9-11eb-9872-8fb4e03defbb.png)
+![Screenshot (437)](https://user-images.githubusercontent.com/61897385/122439803-96277600-cfb9-11eb-9af5-c87ae14e3f77.png)
+![Screenshot (438)](https://user-images.githubusercontent.com/61897385/122439807-96c00c80-cfb9-11eb-8be0-151ecdae5f76.png)
