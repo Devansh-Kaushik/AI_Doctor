@@ -174,6 +174,7 @@ def screen1():
                 engine.runAndWait()
                 with sr.Microphone() as source:
                     print("AMIGO:")
+                    m.pause_threshold = 1
                     audio = m.listen(source)
                 try:
                     print(m.recognize_google(audio))
